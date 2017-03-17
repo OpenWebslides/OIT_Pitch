@@ -86,11 +86,11 @@ p + .twitter-tweet, p + .fb-post {
  margin-bottom: 70px !important;
 }
 
-div.img-div {
+#img-div {
 	max-width: 90% !important;
 }
 
-.img-div img {
+#img-div img {
 	display: block;
 	margin: 0 auto;
 }
